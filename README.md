@@ -1,6 +1,6 @@
 # >_⚡  NeuronCLI
 
-[coding assistant example](https://github.com/neuronCLI/neuronCLI-ai/blob/main/assets/264788877-e50c214b-88e9-4792-87b0-6a1b68253767%20(1).mp4)
+[coding assistant example](https://github.com/blob42/NeuronCLI/assets/210457/e50c214b-88e9-4792-87b0-6a1b68253767)
 
  **Terminal AI Commander at your fingertips**
 
