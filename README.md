@@ -1,5 +1,7 @@
 # >_⚡  NeuronCLI
 
+[coding assistant example](https://github.com/neuronCLI/neuronCLI-ai/blob/main/assets/images/2023-04-02-041126_1728x406_scrot.png)
+
  **Terminal AI Commander at your fingertips**
 
 
